@@ -1,0 +1,17 @@
+{
+    "name": "moriorgames/php-docker-xdebug",
+    "type": "project",
+    "license": "proprietary",
+    "description": "Moriorgames php project with xdebug resolved",
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^4.1"
+    }
+}

@@ -1,0 +1,6 @@
+
+.git
+.idea
+
+# Ignore managed by composer
+/vendor/*

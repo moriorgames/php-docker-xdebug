@@ -1,0 +1,9 @@
+
+# System files
+.DS_Store
+.idea
+dump.rdb
+
+# Managed by Composer
+vendor/*
+!vendor/.gitkeep
